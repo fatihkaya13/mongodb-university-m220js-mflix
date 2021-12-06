@@ -2,17 +2,22 @@
 Mflix
 =====
 
-### Important Note
-- This is a course offered by MongoDB university
-- I finished the project by writing Data Access Object layer of the application
-- The rest of the project is offered by MongoDB university
-- In order to find my work, please go to src/dao folder
-- In order to examine my work, take a look at commentsDAO.js, moviesDAO.js, usersDAO.js files
-- My work satisfies all tickets and passes all tests.
+=====
+Important Note
+=====
+This is a course offered by MongoDB university.
+I finished the project by writing Data Access Object layer of the application.
+The rest of the project is offered by MongoDB university.
+In order to find my work, please go to src/dao folder.
+In order to examine my work, take a look at commentsDAO.js, moviesDAO.js, usersDAO.js files.
+My work satisfies all tickets and passes all tests.
 
 This is a short guide on setting up the system and environment dependencies
 required for the MFlix application to run.
 
+=====
+End of note section
+=====
 
 Project Structure
 -----------------
