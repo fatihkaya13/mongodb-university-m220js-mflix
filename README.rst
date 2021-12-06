@@ -15,6 +15,12 @@ My work satisfies all tickets and passes all tests.
 
 https://university.mongodb.com/courses/M220JS/about 
 
+=====
+Proof of Completion
+=====
+
+.. image:: https://github.com/fatihkaya13/mongodb-university-m220js-mflix/blob/main/M220JS_proof_of_completion.jfif
+
 
 This is a short guide on setting up the system and environment dependencies
 required for the MFlix application to run.
